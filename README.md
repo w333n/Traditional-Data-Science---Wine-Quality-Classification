@@ -1,0 +1,2 @@
+# Traditional-Data-Science---Wine-Quality-Classification
+This project presents a binary classification system for predicting red wine quality using the UCI Wine Quality dataset, comprising 1,599 samples described by 11 physicochemical features. Quality scores were re-encoded into two classes: lower (scores 3–5) and better (scores 6–8), yielding a near-balanced distribution that required no resampling.
